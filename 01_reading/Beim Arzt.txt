@@ -1,0 +1,10 @@
+Arzt: „Guten Tag, wie geht es ihnen?
+Uwe: „Nicht so gut. Ich habe große Schmerzen im Bauch.“
+Arzt: „Bitte setzen Sie sich hier hin und machen ihren Bauch frei. Damit ich das untersuchen kann.“
+Uwe: „Ok, an der linken Seite tut es am meisten weh.“
+Arzt: „Haben Sie Übelkeit, Fieber und Durchfall?“
+Uwe: „Ja, schon seit gestern Abend.“
+Arzt: „Wahrscheinlich haben Sie eine Grippe. Ich verschreibe Ihnen dagegen zwei Medikamente und verordne Ihnen ein paar Tage Ruhe.“
+Uwe: „Danke Herr Doktor. Wann kann ich wieder arbeiten?“
+Arzt: „Sie sollten die nächsten drei Tage beobachten. Falls es Ihnen dann wieder besser geht, dürfen sie wieder zur Arbeit gehen. Ich wünsche Ihnen gute Besserung.“
+Uwe: „Vielen Dank Herr Doktor und auf Wiedersehen.“

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lesesaal — German B1 Reading</title>
+  <meta name="description" content="A minimal German B1 reading library with word-for-word translations.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/">Lesesaal<span>German B1</span></a>
+
+    <div class="controls">
+      <button id="translations-toggle" type="button" aria-pressed="true" title="Show or hide translations (T)">
+        <span class="control-label">Translations</span>
+        <span id="translations-state" class="state">on</span>
+      </button>
+      <div class="size-controls" role="group" aria-label="Text size">
+        <button id="font-down" type="button" title="Smaller text (−)">A−</button>
+        <button id="font-up" type="button" title="Larger text (+)">A+</button>
+      </div>
+      <button id="theme-toggle" type="button" title="Toggle light / dark" aria-label="Toggle light and dark theme">◐</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-head">
+        <span>Reading</span>
+        <span id="text-count">19 texts</span>
+      </div>
+      <nav id="text-list" class="text-list" aria-label="Texts"></nav>
+    </aside>
+
+    <main id="reader" class="reader" tabindex="-1">
+      <div id="content" class="content"></div>
+      <noscript>
+        <p class="noscript">This reading site needs JavaScript enabled to show the texts.</p>
+      </noscript>
+    </main>
+  </div>
+
+  <script src="data/texts.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

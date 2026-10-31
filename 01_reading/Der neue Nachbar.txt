@@ -1,0 +1,13 @@
+Alex: „Hallo, ich bin Alex und ziehe heute neu ein.“
+Tina: „Ja, das habe ich mitbekommen. Ich bin Tina und wohne eine Tür weiter.“
+Alex: „Schön Sie kennen zu lernen.“
+Tina: „Ebenfalls, kann ich Ihnen vielleicht beim Einziehen zur Hand gehen?“
+Alex: „Nun, vielen Dank für das Angebot. Aber ich denke, dass ich den Rest alleine schaffe. Außerdem müssen Sie doch sicher zur Arbeit, oder?“
+Tina: „Nein, ich bin Studentin und habe heute keine Vorlesungen. Deswegen habe ich auch Zeit.“
+Alex: „Aha, das ist ja interessant. Ich bin auch Student und studiere Physik. Was studieren Sie denn?
+Tina: „Medizin, genauer gesagt Tiermedizin. Ich möchte mal Tierärztin werden.“
+Alex: „Das ist ja klasse. Ich habe selber auch zwei Haustiere. Eine Katze und einen Goldfisch. Wenn die mal krank sind, weiß ich ja jetzt, wo ich hingehen muss.“
+Tina: „Na ja, soweit bin ich noch nicht. Aber es würde mich freuen Ihre Haustiere mal kennenzulernen.“
+Alex: „Sehr gerne, sobald ich eingezogen bin und ein wenig aufgeräumt habe, sind Sie herzlich eingeladen.“
+Tina: „Vielen Dank, ich werde vorbeischauen. Bis bald und viel Erfolg beim Einzug.“
+Alex: „Auf Wiedersehen und vielen Dank für die nette Begrüßung.“
